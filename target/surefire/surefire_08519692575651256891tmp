@@ -1,0 +1,5 @@
+#surefire_0
+#Tue Jan 10 14:37:29 UTC 2023
+basedir=/mnt/java_application/java-spring-boot-maven
+user.dir=/mnt/java_application/java-spring-boot-maven
+localRepository=/root/.m2/repository
